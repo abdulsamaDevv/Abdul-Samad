@@ -16,7 +16,7 @@ as a Tier 1 Analyst.
 |-----------------------------------------------|----------------------------|
 | OS and Web Application Penetration            | <a href="https://google.com">Detection Lab</a>|
 | Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
-| Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a> |
+| Active Directory                              |  |
 
 ## Tools
 
@@ -42,23 +42,18 @@ as a Tier 1 Analyst.
 </div>
 
 ### Threat Intelligence Platform
-<div>
-    <img src="https://img.shields.io/badge/-OpenCTI-1E90FF?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
-</div>
+
 
 ### Certifications
 
-<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+
 
 ### Projects
 
-- OS and Web Application Penetration
-- Securing Cloud Applications
-- <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a>
+
 
 ### Activities
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Moe2318.png?style=flat&cache-control=no-cache" alt="TryHackMe">
+-Buck
 
-- Linux Capture The Flag (CTF)
-- BuckeyeCTF at The Ohio State University
+
