@@ -1,7 +1,7 @@
 # Hello, I'm Abdul Samad
 <a href="https://www.linkedin.com/in/abdul-samad200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 
 
 I'm a computer science student interested in cybersecurity and dedicated to solving complex problems.
