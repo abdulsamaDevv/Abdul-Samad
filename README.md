@@ -17,7 +17,7 @@ I'm a dedicated Information Technology student at The Ohio State University with
 | Skill                   | Associated Project                                                                 |
 |-------------------------|-------------------------------------------------------------------------------------|
 | Help Desk Support       | [Help Desk Knowledge Base](https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base) |
-| VPN Server Deployment   | [Self-Hosted VPN on Raspberry Pi](https://github.com/abdulsamaDevv/Self-Hosted-VPN-with-OpenVPN-on-Raspberry-Pi-Ubuntu-Server-)       |
+| NAS Server              | [Self-Hosted NAS Server on Raspberry Pi](https://github.com/abdulsamaDevv/Self-Hosted-NAS-Server-on-Raspberry-Pi/blob/main/README.md)       |
 | Python Programming      | School coursework and small security automation tasks                               |
 | Java Programming        | Object-oriented programming and data structure fundamentals                         |
 | Network Security Tools  | TryHackMe Rooms (HTTP in Detail, Network Security Essentials)                       |
